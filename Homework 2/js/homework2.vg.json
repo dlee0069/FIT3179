@@ -17,7 +17,8 @@
         },
         "key": "Country",
         "fields": ["Broadband Mbps"]
-      }
+      },
+      "default": "0"
     }
   ],
   "mark": {"type": "geoshape"},
